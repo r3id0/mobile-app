@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FinalFinal</string>
+    <string name="startedTitle">Hello User!</string>
+    <string name="startedSubtitle">
+        NICE TO SEE YOU! Try my Mobile Application!
+    </string>
+
+    <string name="registerString">REGISTER NOW!</string>
+    <string name="loginString">LOG IN YOUR ACCOUNT!</string>
+    <string name="loginSubtitle">
+
+        <font color="#FFD200"><b>Login</b></font>
+        if you have already an account.
+
+    </string>
+
+    <string name="emailLogin">Input your userrname or email</string>
+    <string name="passwordLogin">Enter your password</string>
+    <string name="loginforgot">Forgot password?</string>
+
+    <string name="donthave_Acc">
+
+        I don\'t have an account
+        <font color="#FFD200"><b>Register</b></font>
+
+    </string>
+    <string name="stringloginbtn">Login</string>
+
+    <string name="registerTitle">Create an account</string>
+    <string name="registrationSubtitle">
+
+        <font color="#FFD200"><b>Register</b></font>
+        to get started the app
+
+    </string>
+    <string name="registerFullname">Your fullname:</string>
+    <string name="register_email">Your email:</string>
+    <string name="registration_username">Your username:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="registerstringbtn">Register!</string>
+
+    <string name="registerhaveAccount">
+        I already have an account
+        <font color="#FFD200"><b>Login</b></font>
+    </string>
+    <string name="home_title">Welcome USER!</string>
+    <string name="home_subtitle">Welcome to main form user!</string>
+    <string name="logout_button">Log out</string>
+
+
+</resources>
